@@ -16,3 +16,9 @@ This repository contains summaries of papers and technical reports generated usi
 | 2024-09 | [Small Language Models](https://arxiv.org/abs/2409.15790) | #SLM #survey #OnDevice #Quantization #Benchmarking | NotebookLM | EN [KR](kr/language-models/2024-09-Small-Language-Models.slm.survey.md) |
 | 2025-02 | [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992) | #LLM, #LLaDA, #Diffusion, #Generative | NotebookLM | EN [KR](kr/language-models/2025-02-large-language-diffusion-models.llm.llada.diffusion.notebooklm.md) |
 | 2025-03 | [Phi-4-Mini Technical Report](https://arxiv.org/abs/2503.01743) | #SLM, #MultiModal, #LoRA, #DataCentricLearning, #Reasoning | NotebookLM | EN [KR](kr/language-models/2025-03-phi4-mini-technical-report.slm.multimodal.efficient.notebooklm.md) |
+
+## Quantization Methods
+| Date | Paper | Tags | Tool | Language |
+|------|-------|------|------|----------|
+| 2024-02 | [OneBit](https://arxiv.org/abs/2402.11295) | #OneBit, #LLMQuantization, #1BitLLM, #ModelCompression, #KnowledgeDistillation | GPT-4o | [EN](./en/quantization-methods/2024-02-one-bit.modelcompression.1BitLLM.GPT4o.md) KR |
+| 2024-10 | [Mixture of Scales](https://arxiv.org/abs/2406.12311v1) | #LLM_Binarization, #MemoryEfficientAI, #Quantization, #TokenAdaptiveScaling, #ModelCompression | GPT-4o | [EN](./en/quantization-methods/2024-10-mixture-of-scales.modelcompression.binarization.GPT4o.md) KR |
