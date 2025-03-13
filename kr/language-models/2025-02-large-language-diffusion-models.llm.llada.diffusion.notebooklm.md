@@ -15,6 +15,7 @@
 ## 주요 아이디어
 
 ### 자기 회귀 모델(ARM) 패러다임에 대한 도전
+
 - 기존 LLM의 핵심 기술인 다음 토큰 예측 방식(ARM)이 LLM의 지능을 달성하는 유일한 방법인지에 대한 근본적인 질문을 제기합니다.
 
   > "Is the autoregressive paradigm the only viable path to achieving the intelligence exhibited by LLMs?"
@@ -47,7 +48,7 @@
   > "Remarkably, LLaDA 8B surpasses LLaMA2 7B... on nearly all 15 standard zero/few-shot learning tasks while performing on par with LLaMA3 8B..."
 
 - 명령어 추종 (Instruction-Following): SFT 후 다중 턴 대화와 같은 사례 연구에서 향상된 명령어 추종 능력을 보여줍니다.
-  
+
   > "LLaDA significantly enhances the ability to follow instructions after SFT, as demonstrated in case studies such as multi-turn dialogue."
 
 - 역전 추론 (Reversal Reasoning): '역전 저주' 문제를 효과적으로 해결하며, 역방향 시 완성 작업에서 GPT-4o를 능가하는 성능을 보입니다. (표 3 참조)
