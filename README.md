@@ -9,6 +9,12 @@
 
 This repository contains summaries of papers and technical reports generated using LLM tools like NotebookLM and ChatGPT. We believe in collaborative learning and knowledge sharing!
 
+## Hardwares
+
+- Debunking the CUDA Myth Towards GPU-based AI Systems: Evaluation of Intel's Gaudi NPU for AI Model Serving
+  - https://arxiv.org/abs/2501.00210
+  - Summarizations [[EN](./en/hardware/2501.00210.Evaluation-of-Gaudi-NPU.GPT4.5.md)] [KR]
+
 ## Language Models
 
 | Date | Paper | Tags | Tool | Language |
